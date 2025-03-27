@@ -58,8 +58,7 @@ Prism AI Assistant was built by Tejas Raj, a 16-year-old developer from Bihar, I
    - Type your questions in the text field and click Send
    - Toggle the webcam for image-based interactions
    - Select your preferred voice from the dropdown menu
-   - Click "Start Voice Input" to use speech recognition (toggle "Continuous Listening" for hands-free operation)
-   - Use the "Interrupt" button to stop Prism's speech at any time
+   - Click "Start Voice Input" to use speech recognition (toggle "Continuous Listening" for hands-free operation
 
 ## Advanced Features
 
