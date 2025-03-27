@@ -1,6 +1,10 @@
 # Prism AI Assistant
 
-Prism is a sophisticated AI assistant with vision capabilities powered by Google's Gemini models. It features real-time web search integration, natural voice synthesis, voice input recognition, and a friendly GUI interface.
+<p align="center">
+  <img src="prism.jpeg" alt="Prism Logo" width="200"/>
+</p>
+
+**P**owerful **R**evolutionary **I**ntegrated **S**mart **M**achine (PRISM) is a sophisticated AI assistant with vision capabilities powered by Google's Gemini models. It features real-time web search integration, natural voice synthesis, voice input recognition, and a friendly GUI interface.
 
 ## Features
 
@@ -81,6 +85,16 @@ The following features are planned for implementation after competitive exams:
 - For the best experience with webcam features, ensure you have proper lighting.
 - The voice recognition works best in a quiet environment.
 - The app is designed to provide human-like responses with natural speech patterns.
+
+## Support the Project
+
+If you find Prism AI Assistant useful, consider supporting the developer:
+
+<p align="center">
+  <a href="https://ko-fi.com/invoidx">
+    <img src="https://storage.ko-fi.com/cdn/kofi1.png" alt="Support on Ko-fi" width="150">
+  </a>
+</p>
 
 ## License
 
